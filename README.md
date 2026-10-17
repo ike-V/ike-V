@@ -4,10 +4,6 @@
 
 I'm building light, open, and considerate tools that I'd actually want to use.
 
-- Native macOS apps and widgets: [Dirian](https://github.com/ike-V/Dirian) browses an Android phone over USB.
-- Obsidian: the [Fokus](https://github.com/ike-V/obsidian-fokus) theme and its [focus-window plugin](https://github.com/ike-V/obsidian-fokus-window-mode).
-- Browser extras: [new-tab-home](https://github.com/ike-V/new-tab-home), a clock, search bar and random wallpaper new tab.
-
 #### Languages and tools I use often:
 
 <p align="left">
