@@ -21,9 +21,4 @@ I'm building light, open, and considerate tools that I'd actually want to use.
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ike-V/ike-V/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ike-V/ike-V/output/github-snake.svg" alt="A snake eating my contribution graph">
-</picture>
-
 ---
