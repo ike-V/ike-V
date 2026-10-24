@@ -10,7 +10,7 @@ I'm building light, open, and considerate tools that I'd actually want to use.
   <tr>
     <td align="center">
       <a href="https://github.com/ike-V/obsidian-fokus"><img height="140" src="https://raw.githubusercontent.com/ike-V/obsidian-fokus/main/screenshots/fokus-cover.png" alt="Fokus, a borderless Obsidian theme"></a><br>
-      Boarderless Obsidian Theme <a href="https://github.com/ike-V/obsidian-fokus">Fokus</a>
+      Borderless Obsidian Theme <a href="https://github.com/ike-V/obsidian-fokus">Fokus</a>
     </td>
     <td align="center">
       <a href="https://github.com/ike-V/Dirian"><img height="140" src="https://raw.githubusercontent.com/ike-V/Dirian/main/Screenshots/hero.png" alt="Dirian, a macOS app for browsing Android phones"></a><br>
