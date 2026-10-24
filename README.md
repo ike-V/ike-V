@@ -6,7 +6,7 @@
 
 I'm building light, open, and considerate tools that I'd actually want to use.
 
-<a href="https://github.com/ike-V/obsidian-fokus"><img width="10%" src="https://raw.githubusercontent.com/ike-V/obsidian-fokus/main/screenshots/fokus-cover.png" alt="Fokus, a borderless Obsidian theme"></a>
+<a href="https://github.com/ike-V/obsidian-fokus"><img width="30%" src="https://raw.githubusercontent.com/ike-V/obsidian-fokus/main/screenshots/fokus-cover.png" alt="Fokus, a borderless Obsidian theme"></a>
 
 **[Fokus](https://github.com/ike-V/obsidian-fokus)**: my borderless Obsidian theme with 20+ color schemes. Search "Fokus" in Obsidian's theme browser.
 
