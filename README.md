@@ -1,6 +1,6 @@
 # Hi, I'm Ike.V 🤘
 
-<img src="assets/name.svg" alt="Izikiel Viconoclas">
+Izikiel Viconoclas
 
 #### Doing my best and learning in public.
 
