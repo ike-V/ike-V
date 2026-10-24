@@ -18,7 +18,7 @@ I'm building light, open, and considerate tools that I'd actually want to use.
     </td>
     <td align="center">
       <a href="https://github.com/ike-V/new-tab-home"><img height="140" src="https://raw.githubusercontent.com/ike-V/new-tab-home/main/screenshots/full-page.png" alt="new-tab-home: a clock and search bar over a random wallpaper"></a><br>
-      New Tab Extension for Chromium <a href="https://github.com/ike-V/new-tab-home">new-tab-home</a>
+      New Tab Extension <a href="https://github.com/ike-V/new-tab-home">new-tab-home</a>
     </td>
   </tr>
 </table>
