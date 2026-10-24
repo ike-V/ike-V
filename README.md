@@ -1,15 +1,12 @@
 # Hi, I'm Ike.V 🤘
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&weight=700&size=22&duration=2200&pause=1000&color=E6EDF3&vCenter=true&repeat=false&width=320&height=36&lines=Izikiel+Viconoclas">
-  <img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&weight=700&size=22&duration=2200&pause=1000&color=1F2328&vCenter=true&repeat=false&width=320&height=36&lines=Izikiel+Viconoclas" alt="Izikiel Viconoclas">
-</picture>
+<img src="assets/name.svg" alt="Izikiel Viconoclas">
 
 #### Doing my best and learning in public.
 
 I'm building light, open, and considerate tools that I'd actually want to use.
 
-<a href="https://github.com/ike-V/obsidian-fokus"><img src="https://raw.githubusercontent.com/ike-V/obsidian-fokus/main/screenshots/fokus-cover.png" alt="Fokus, a borderless Obsidian theme"></a>
+<a href="https://github.com/ike-V/obsidian-fokus"><img width="10%" src="https://raw.githubusercontent.com/ike-V/obsidian-fokus/main/screenshots/fokus-cover.png" alt="Fokus, a borderless Obsidian theme"></a>
 
 **[Fokus](https://github.com/ike-V/obsidian-fokus)**: my borderless Obsidian theme with 20+ color schemes. Search "Fokus" in Obsidian's theme browser.
 
