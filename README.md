@@ -1,10 +1,17 @@
 # Hi, I'm Ike.V 🤘
 
- Izikiel Viconoclas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&weight=700&size=22&duration=2200&pause=1000&color=E6EDF3&vCenter=true&repeat=false&width=320&height=36&lines=Izikiel+Viconoclas">
+  <img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible&weight=700&size=22&duration=2200&pause=1000&color=1F2328&vCenter=true&repeat=false&width=320&height=36&lines=Izikiel+Viconoclas" alt="Izikiel Viconoclas">
+</picture>
 
 #### Doing my best and learning in public.
 
 I'm building light, open, and considerate tools that I'd actually want to use.
+
+<a href="https://github.com/ike-V/obsidian-fokus"><img src="https://raw.githubusercontent.com/ike-V/obsidian-fokus/main/screenshots/fokus-cover.png" alt="Fokus, a borderless Obsidian theme"></a>
+
+**[Fokus](https://github.com/ike-V/obsidian-fokus)**: my borderless Obsidian theme with 20+ color schemes. Search "Fokus" in Obsidian's theme browser.
 
 #### Languages and tools I use often:
 
@@ -16,5 +23,10 @@ I'm building light, open, and considerate tools that I'd actually want to use.
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ike-V/ike-V/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ike-V/ike-V/output/github-snake.svg" alt="A snake eating my contribution graph">
+</picture>
 
 ---
