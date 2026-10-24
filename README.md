@@ -6,9 +6,18 @@ Izikiel Viconoclas
 
 I'm building light, open, and considerate tools that I'd actually want to use.
 
-<a href="https://github.com/ike-V/obsidian-fokus"><img width="30%" src="https://raw.githubusercontent.com/ike-V/obsidian-fokus/main/screenshots/fokus-cover.png" alt="Fokus, a borderless Obsidian theme"></a>
-
-**[Fokus](https://github.com/ike-V/obsidian-fokus)**: my borderless Obsidian theme with 20+ color schemes. Search "Fokus" in Obsidian's theme browser.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ike-V/obsidian-fokus"><img height="140" src="https://raw.githubusercontent.com/ike-V/obsidian-fokus/main/screenshots/fokus-cover.png" alt="Fokus, a borderless Obsidian theme"></a><br>
+      My Obsidian Theme <a href="https://github.com/ike-V/obsidian-fokus">Fokus</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ike-V/Dirian"><img height="140" src="https://raw.githubusercontent.com/ike-V/Dirian/main/Screenshots/hero.png" alt="Dirian, a macOS app for browsing Android phones"></a><br>
+      My Android File Browser <a href="https://github.com/ike-V/Dirian">Dirian</a>
+    </td>
+  </tr>
+</table>
 
 #### Languages and tools I use often:
 
