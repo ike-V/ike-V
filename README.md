@@ -1,6 +1,6 @@
 # Hi, I'm Ike.V 🤘
 
- Izikiel Vconoclast
+ Izikiel Viconoclas
 
 #### Doing my best and learning in public.
 
