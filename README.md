@@ -16,6 +16,10 @@ I'm building light, open, and considerate tools that I'd actually want to use.
       <a href="https://github.com/ike-V/Dirian"><img height="140" src="https://raw.githubusercontent.com/ike-V/Dirian/main/Screenshots/hero.png" alt="Dirian, a macOS app for browsing Android phones"></a><br>
       Android File Browser for macOS <a href="https://github.com/ike-V/Dirian">Dirian</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ike-V/new-tab-home"><img height="140" src="https://raw.githubusercontent.com/ike-V/new-tab-home/main/screenshots/full-page.png" alt="new-tab-home: a clock and search bar over a random wallpaper"></a><br>
+      New Tab Extension for Chromium <a href="https://github.com/ike-V/new-tab-home">new-tab-home</a>
+    </td>
   </tr>
 </table>
 
